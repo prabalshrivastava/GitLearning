@@ -1,0 +1,8 @@
+#1. command to create a tag
+git tag v1.0
+
+#2. command to show the tag ddescription
+git show v1.0
+
+#3. command to create an annotated tag using -a.Here we can give our custom message and it also stores meta info in form of object
+git tag -a v1.1 -m "this is an annotated tag with a message......it also keeps some meta information in the form of git object"
