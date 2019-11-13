@@ -1,0 +1,5 @@
+#this is a comment
+#we can use * wildcard for ignoring the files
+directory to be ignored by git while committing
+Test.java
+*.exe
