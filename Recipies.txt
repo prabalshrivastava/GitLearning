@@ -20,3 +20,9 @@ changes for resolving issue
 
 
 changes for merging two branches
+
+
+changes for comparing using beyond compare
+
+
+adding changes for getting the master ahead of to-be-merged-to-master
